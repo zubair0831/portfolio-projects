@@ -21,7 +21,7 @@ across machine learning, computer vision, data science, and SwiftUI development.
 - **Focus:** Understanding early visual representations learned by CNNs
 - **Description:** Analyzed first-layer filters from multiple CNN architectures and compared them with classical image processing operators (Sobel, Prewitt, Gaussian, Laplacian, Gabor) using spatial and frequency-domain analysis.
 - **Architectures:** ResNet18, VGG16, AlexNet, DenseNet121
-- **Repository:** https://github.com/zubair0831/cnn-early-vision-analysis
+- **Repository:** https://github.com/zubair0831/Interpreting-What-CNNs-Learn-in-Early-Vision-Layers
 
 ---
 
