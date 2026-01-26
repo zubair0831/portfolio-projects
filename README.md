@@ -17,8 +17,16 @@ across machine learning, computer vision, data science, and SwiftUI development.
 
 ## Computer Vision & Image Processing Research
 
+### 🔹 AI Crowd Monitoring System for Stampede Prevention
+- **Focus:** Real-time crowd density estimation and early risk detection
+- **Description:** Developed a web-based crowd monitoring system that detects and counts people in video footage using the P2PNet deep learning model. The system provides real-time statistics, visual overlays, and automatic alerts when crowd density exceeds safe thresholds.
+- **Key Features:** Crowd counting, heatmap visualization, configurable alert limits, real-time video analysis
+- **Repository:** https://github.com/zubair0831/crowd-density-prediction
+
+---
+
 ### 🔹 Interpreting What CNNs Learn in Early Vision Layers
-- **Focus:** Understanding early visual representations learned by CNNs
+- **Focus:** Understanding low-level visual representations learned by CNNs
 - **Description:** Analyzed first-layer filters from multiple CNN architectures and compared them with classical image processing operators (Sobel, Prewitt, Gaussian, Laplacian, Gabor) using spatial and frequency-domain analysis.
 - **Architectures:** ResNet18, VGG16, AlexNet, DenseNet121
 - **Repository:** https://github.com/zubair0831/Interpreting-What-CNNs-Learn-in-Early-Vision-Layers
@@ -30,15 +38,6 @@ across machine learning, computer vision, data science, and SwiftUI development.
 ### 🔹 Ensemble Learning – Generalization Gap Analysis
 - **Focus:** Bias–variance trade-offs and generalization behavior in ensemble models
 - **Repository:** https://github.com/zubair0831/ensemble-generalization-gap
-
----
-
-## Ongoing Senior Design Research Project
-
-### 🔹 Crowd Density Prediction for Stampede Prevention
-- **Focus:** Crowd density estimation and risk detection using computer vision
-- **Status:** In Progress
-- **Repository:** https://github.com/zubair0831/crowd-density-prediction
 
 ---
 
